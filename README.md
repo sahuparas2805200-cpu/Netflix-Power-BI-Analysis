@@ -100,7 +100,8 @@ This dashboard helps answer questions such as:
 
 ## 📷 Dashboard Preview
 
-![Netflix Power BI Dashboard](Dashboard.png)
+<img width="1030" height="631" alt="image" src="https://github.com/user-attachments/assets/02c38bc1-5f85-4b91-8fb5-a4ac52a5a586" />
+
 
 ---
 
@@ -139,7 +140,7 @@ The dashboard transforms Netflix content data into an interactive analytical rep
 
 ## 👤 Author
 
-**Krishna**
+**Paras Sahu**
 
 Aspiring Data Analyst
 
